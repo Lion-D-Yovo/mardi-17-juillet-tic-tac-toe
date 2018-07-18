@@ -1,4 +1,4 @@
-#require "pry"
+require "pry"
 
 class BoardCase
     #TO DO : la classe a 2 attr_accessor, 
@@ -116,4 +116,4 @@ Board.new.show_board
 #Game.new.go
 
 
-#binding.pry
+binding.pry
